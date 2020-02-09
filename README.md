@@ -369,6 +369,7 @@ deepspeed --include="worker-2:0,1" \
 | [DeepSpeed Features](./docs/features.md)                                                       |  DeepSpeed features                          |
 | [CIFAR-10 Tutorial](./docs/tutorials/CIFAR-10.md)                                              |  Getting started with CIFAR-10 and DeepSpeed |
 | [Megatron-LM Tutorial](./docs/tutorials/MegatronGPT2Tutorial.md)                               |  Train GPT2 with DeepSpeed and Megatron-LM   |
+| [Learning Rate Range Test Tutorial](./docs/tutorials/lrrt.md)                                  |  Faster training with large learning rates   |
 | [API Documentation]( https://microsoft.github.io/DeepSpeed/docs/htmlfiles/api/full/index.html) |  Generated DeepSpeed API documentation       |
 
 
