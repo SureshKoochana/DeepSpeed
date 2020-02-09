@@ -156,8 +156,8 @@ high memory bandwidth.
 ### Large Batch Training with LAMB Optimizer
 **TODO: port tutorial**
 DeepSpeed makes it easy to train with large batch sizes by enabling the LAMB Optimizer.
-For more details on LAMB, see the [BERT
-tutorial](../../Tutorials/BingBertSquad/BingBertSquadTutorial.md)  and the [LAMB
+For more details on LAMB, see the <!--[BERT
+tutorial](../../Tutorials/BingBertSquad/BingBertSquadTutorial.md)  and the --> [LAMB
 paper](https://arxiv.org/pdf/1904.00962.pdf).
 
 ### Memory-Efficient Training with ZeRO Optimizer
